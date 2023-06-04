@@ -1,0 +1,28 @@
+.mapCanvas {
+  /* height: auto;
+  width: auto; */
+
+  /*Gets rid of scroll bars(horizonal&vertical) and below vvv.*/
+  position: absolute;       
+  top:0;                    
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+  overflow: hidden;
+  overflow-y: hidden;
+  background-color: none;
+}
+
+
+
+/* #forceGraph {
+  overflow: hidden
+} */
+
+
+
+/* https://github.com/vasturiano/react-force-graph */
+
+
