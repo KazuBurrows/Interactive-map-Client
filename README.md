@@ -1,3 +1,14 @@
+
+
+
+![](https://github.com/KazuBurrows/Interactive-map-Client/blob/main/New-Recording-7_06_2023_-4.47.13-pm.gif)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
