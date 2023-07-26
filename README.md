@@ -4,7 +4,7 @@
 ![](https://github.com/KazuBurrows/Interactive-map-Client/blob/main/New-Recording-7_06_2023_-4.47.13-pm.gif)
 
 
-![](Screenshot 2023-07-26 160719.png)
+![](https://github.com/KazuBurrows/Interactive-map-Client/blob/main/Screenshot%202023-07-26%20160719.png)
 
 
 
